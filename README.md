@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm prajwal ganvir</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
-- 🔭 I’m currently working on **heart disease prediction**
-
 - 🤝 I’m looking for help with **e authentication system**
 
 - 💬 Ask me about **data science,python,machine learning,data analysis**
